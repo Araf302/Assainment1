@@ -1,0 +1,315 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.contain-box{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto
+}
+.section1{
+background-color: #c22b4c1a;
+padding-top: 20px;
+}
+.section1 .first-sec{
+display: flex;
+}
+.section1 .flower{
+padding-top: 100px;
+}
+.section1 .flower h1{
+    color: #272727;
+    font-weight: 800;
+    font-size: 84px;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+.section1 .flower p{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 634px;
+    padding-bottom: 15px;
+}
+ .btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: none;
+}
+
+.section1 .r-flo{
+    display: inline-block;
+    width: 50%;
+    
+}
+.section1 .r-flo img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 95px;
+}
+
+.section2{ 
+    text-align: center;
+    margin: auto;
+ }
+.section2 .ftur{ 
+    padding-bottom: 50px;
+ }
+.section2 .ourftur h1{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 130px;
+  }
+.section2 .ourftur p{ 
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 700px;
+    margin: auto;
+    padding-bottom: 50px;
+ }
+ .section2 .ftur-flo{
+    display: flex;
+    gap: 24px;
+    padding-bottom: 128px;
+ }
+ .section2 .ftur-flo img{
+   border-radius: 300px 300px 0px 0px;
+ }
+.section2 .img1{
+    width: 464px;
+    height: 538px;
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+.section2 .img1 img{
+ padding-top: 110px;  
+}
+.section2 .img2{
+    width: 464px;
+    height: 538px;
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+.section2 .img2 img{
+    padding-top: 110px;
+}
+.section2 .img3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.section2 .img3 img{
+    padding-top: 67px;
+}
+.section2 .flotxt p{color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;}
+
+.section3 .dboxr{
+
+    background: #2727270D;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 100px;
+    padding-top: 85px;
+    padding-bottom: 40px;
+    border-radius: 8px;
+}
+.section3 .d-box{
+text-align: center;
+
+}
+.section3 .dboxr .d-box-1{
+padding-left: 174px;
+}
+.section3 .dboxr .d-box-3{
+    padding-right: 174px;
+    }
+.section3 .dboxr .d-dox img{   
+    height: 88px;
+    width: 88px;
+}
+.section3 .dboxr .d-box-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.section4{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    height: 620px;
+}
+.section4 .deal{
+    display: flex;
+    text-align: center;
+    margin-top: 128px; ;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    justify-content: space-around;
+}
+.section4 .deal .dealtext h1{
+    padding-top: 65px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.section4 .deal .dealtext h1 span{
+    color: #E55473;
+}
+.section4 .deal .dealtext p{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;}
+.section4 .deal .dealtext .btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    margin-top: 15px;
+}
+
+.section5 .ins h1{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 80px;
+}
+.section5 .ins p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: auto;
+}
+.section5 .insimg{
+    padding-top: 48px;
+    display: flex;
+    gap:24px;
+    padding-bottom: 128px;
+}
+.section6{
+    padding-bottom: 128px; 
+ }
+ .section6 .dls{
+     background-image: url("./images/Rectangle 9.png");
+     height: 449px;
+     text-align: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ .section6 .dls .sub-text h1{
+     padding-top: 122px;
+     color: #272727;
+     text-align: center;
+     font-family: Lato;
+     font-size: 40px;
+     font-style: normal;
+     font-weight: 800;
+     line-height: normal;
+     margin-bottom: 0px;
+ }
+ .section6 .dls .sub-text p{
+     color: rgba(39, 39, 39, 0.60);
+     text-align: center;
+     font-family: Lato;
+     font-size: 18px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 30px;
+     margin-bottom: 48px;
+ }
+ .section6 .dls .emlsub input{
+     width: 700px;
+     height: 64px;
+     border-radius:8px;
+     border: 0px;
+     font-size: 16px;
+     margin-right: 10px;
+     padding-left: 20px;
+ }
+ .section6 .dls .emlsub .btn{
+ padding: 22px 43px;
+ }
+ 
+footer{
+    background: #000;
+    text-align: center;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+footer .infooter{
+    width: 628px;
+    margin: auto;
+}
+footer h1{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+footer h1 span{
+    color: #FFF;
+}
+footer p{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+footer .copyright{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
